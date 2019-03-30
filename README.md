@@ -1,11 +1,11 @@
-# react-native-keyboard
-A numeric keyboard component.
+# react-native-new-keyboard
+A keyboard component for react-native. This is a react-native-keyboard fork 
 
 ![ios demo](./doc/ios.png) ![android demo](./doc/android.png)
 
 ## Install
-1. npm install react-native-keyboard --save
-2. import Keyboard from 'react-native-keyboard'
+1. npm install react-native-new-keyboard --save
+2. import Keyboard from 'react-native-new-keyboard'
 
 
 ## Example
@@ -13,7 +13,7 @@ A numeric keyboard component.
 'use strict';
 
 import React, {View, Text, StyleSheet} from 'react-native';
-import Keyboard from 'react-native-keyboard';
+import Keyboard from 'react-native-new-keyboard';
 
 
 let model = {
