@@ -9,7 +9,7 @@ import React, {
     View, Text, StyleSheet,
 } from 'react-native';
 
-import Keyboard from 'react-native-keyboard';
+import Keyboard from 'react-native-new-keyboard';
 
 
 let model = {

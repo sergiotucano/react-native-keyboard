@@ -1,7 +1,7 @@
 {
-  "name": "react-native-keyboard",
-  "version": "2.0.1",
-  "description": "",
+  "name": "react-native-new-keyboard",
+  "version": "1.0.0",
+  "description": "This package is a static keyboard for react-native. Is a react-native-keyboard-fork",
   "main": "lib/index.js",
   "scripts": {},
   "files": [
@@ -9,22 +9,27 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beefe/react-native-keyboard.git"
+    "url": "git+https://github.com/sergiotucano/react-native-new-keyboard.git"
   },
-  "author": "",
+  "author": "Sergio Clemente",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beefe/react-native-keyboard/issues"
+    "url": "https://github.com/sergiotucano/react-native-new-keyboard/issues"
   },
-  "homepage": "https://github.com/beefe/react-native-keyboard#readme",
-  "gitHead": "e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
-  "readme": "# keyboard",
-  "readmeFilename": "README.md",
-  "_id": "react-native-keyboard@1.0.0",
+  "homepage": "https://github.com/sergiotucano/react-native-new-keyboard#readme",
   "_shasum": "902d4878c1c66a2a8ef8075d674279ececd027a5",
-  "_from": "git+https://github.com/beefe/react-native-keyboard.git",
-  "_resolved": "git+https://github.com/beefe/react-native-keyboard.git#e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
+  "_from": "git+https://github.com/sergiotucano/react-native-new-keyboard.git",
+  "_resolved": "git+https://github.com/sergiotucano/react-native-new-keyboard.git#e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
   "peerDependencies": {
     "prop-types": "^15.6.1"
-  }
+  },
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "keyboard"
+  ]
 }

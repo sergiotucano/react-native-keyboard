@@ -1,10 +1,10 @@
 {
   "name": "Basic",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
-  },
+  },  
   "dependencies": {
     "react-native": "^0.20.0",
     "react-native-keyboard": "file:../../"
